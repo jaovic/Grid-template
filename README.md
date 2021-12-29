@@ -1,2 +1,2 @@
 # Grid-template
-exemplo de template usando Grid CSS
+Exemplo de template usando Grid CSS
